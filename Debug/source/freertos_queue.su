@@ -1,0 +1,6 @@
+../source/freertos_queue.c:53:5:main	16	static
+../source/freertos_queue.c:85:13:write_task_1	16	static
+../source/freertos_queue.c:100:13:write_task_2	16	static
+../source/freertos_queue.c:119:6:log_add	16	static
+../source/freertos_queue.c:127:6:log_init	24	static
+../source/freertos_queue.c:146:13:log_task	48	static
